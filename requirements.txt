@@ -13,4 +13,5 @@ networkx>=3.1
 fpdf>=1.7.2
 psutil>=5.9.0
 qiskit>=1.0.0
-qiskit-aer>=0.13.0  # ← ADICIONE ESTA LINHA (note o hífen!)
+qiskit-aer>=0.13.0
+websockets>=12.0  # ← ADICIONE ESTA LINHA
